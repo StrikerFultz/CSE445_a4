@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
-  <Hotel Rating="4.2" NearestAirport="Sky Harbor">
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E. 7th St</Street>
       <City>Tempe</City>
@@ -14,10 +14,10 @@
     </Address>
   </Hotel>
 
-    <!--1--><Hotel Rating="3.0" NearestAirport="Sky Harbor">
+    <!--1--><Hotel Rating="3.0">
     <Name>Premier Inns Tolleson</Name>
     <Phone>623-533-4660</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>8399</Number>
       <Street>W Lynwood St</Street>
       <City>Tolleson</City>
@@ -25,10 +25,10 @@
       <Zip>85353</Zip>
     </Address>
     </Hotel>
-    <!--2--><Hotel Rating="4.0" NearestAirport="Sky Harbor">
+    <!--2--><Hotel Rating="4.0">
     <Name>DoubleTree</Name>
     <Phone>602-997-5900</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>10220</Number>
       <Street>N Metro Pkwy E</Street>
       <City>Phoenix</City>
@@ -36,10 +36,10 @@
       <Zip>85051</Zip>
     </Address>
     </Hotel>
-    <!--3--><Hotel Rating="3.9" NearestAirport="Sky Harbor">
+    <!--3--><Hotel Rating="3.9">
     <Name>Hilton Phoenix Resort</Name>
     <Phone>602-997-2626</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>7677</Number>
       <Street>N 16th St</Street>
       <City>Phoenix</City>
@@ -47,10 +47,10 @@
       <Zip>85020</Zip>
     </Address>
     </Hotel>
-    <!--4--><Hotel Rating="4.6" NearestAirport="Sky Harbor">
+    <!--4--><Hotel Rating="4.6">
     <Name>Hotel Valley Ho</Name>
     <Phone>480-376-2600</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>6850</Number>
       <Street>E Main St</Street>
       <City>Scottsdale</City>
@@ -58,10 +58,10 @@
       <Zip>85251</Zip>
     </Address>
     </Hotel>
-    <!--5--><Hotel Rating="3.3" NearestAirport="Sky Harbor">
+    <!--5--><Hotel Rating="3.3">
     <Name>Extended Stay America Select Suites</Name>
     <Phone>602-225-2998</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>4357</Number>
       <Street>E Oak St</Street>
       <City>Phoenix</City>
@@ -69,10 +69,10 @@
       <Zip>85008</Zip>
     </Address>
     </Hotel>
-    <!--6--><Hotel Rating="4.1" NearestAirport="Sky Harbor">
+    <!--6--><Hotel Rating="4.1">
     <Name>Hilton Garden Inn</Name>
     <Phone>602-470-0500</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>3422</Number>
       <Street>E Elwood St</Street>
       <City>Phoenix</City>
@@ -80,10 +80,10 @@
       <Zip>85040</Zip>
     </Address>
     </Hotel>
-    <!--7--><Hotel Rating="4.2" NearestAirport="Sky Harbor">
+    <!--7--><Hotel Rating="4.2">
     <Name>Hyatt Place</Name>
     <Phone>480-207-1578</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>601</Number>
       <Street>E 6th St</Street>
       <City>Tempe</City>
@@ -91,10 +91,10 @@
       <Zip>85281</Zip>
     </Address>
     </Hotel>
-    <!--8--><Hotel Rating="4.3" NearestAirport="Sky Harbor">
+    <!--8--><Hotel Rating="4.3">
     <Name>Holiday Inn Express and Suites</Name>
     <Phone>480-831-9800</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>1520</Number>
       <Street>W Baseline Rd</Street>
       <City>Tempe</City>
@@ -102,10 +102,10 @@
       <Zip>85283</Zip>
     </Address>
     </Hotel>
-    <!--9--><Hotel Rating="3.1" NearestAirport="Sky Harbor">
+    <!--9--><Hotel Rating="3.1">
     <Name>Del Rio lodge motel</Name>
     <Phone>480-833-0010</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>2200</Number>
       <Street>W Main St</Street>
       <City>Mesa</City>
@@ -113,10 +113,10 @@
       <Zip>85201</Zip>
     </Address>
     </Hotel>
-    <!--10--><Hotel Rating="3.8" NearestAirport="Sky Harbor">
+    <!--10--><Hotel Rating="3.8">
     <Name>Motel 6</Name>
     <Phone>602-244-1155</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>214</Number>
       <Street>S 24th St</Street>
       <City>Phoenix</City>
